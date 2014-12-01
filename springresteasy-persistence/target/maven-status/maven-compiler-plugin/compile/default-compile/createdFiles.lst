@@ -1,0 +1,2 @@
+org/jboss/resteasy/examples/contacts/persistence/ContactDao.class
+org/jboss/resteasy/examples/contacts/persistence/hibernate/ContactDaoImpl.class
